@@ -1,0 +1,11 @@
+Period,Start_year,End_year,Opening_rate_percent,Closure_rate_percent,Source
+1975-1978,1975,1978,6.0,3.2,"JIL (2009), Table 12-1, Establishment and Enterprise Census"
+1978-1981,1978,1981,5.9,3.5,"JIL (2009), Table 12-1, Establishment and Enterprise Census"
+1981-1986,1981,1986,4.3,3.6,"JIL (2009), Table 12-1, Establishment and Enterprise Census"
+1986-1991,1986,1991,3.7,3.6,"JIL (2009), Table 12-1, Establishment and Enterprise Census"
+1991-1996,1991,1996,3.6,3.8,"JIL (2009), Table 12-1, Establishment and Enterprise Census"
+1996-2001,1996,2001,3.5,4.0,"JIL (2009), Table 12-1, Establishment and Enterprise Census"
+2001-2006,2001,2006,3.5,4.2,"JIL (2009), Table 12-1, Establishment and Enterprise Census"
+2009-2012,2009,2012,3.6,4.1,"METI, White Paper on Small and Medium Enterprises 2016, based on Economic Census for Business Frame"
+2012-2016,2012,2016,3.3,3.8,"METI, White Paper on Small and Medium Enterprises 2020, based on Economic Census for Business Frame"
+2016-2021,2016,2021,3.0,3.6,"METI, White Paper on Small and Medium Enterprises 2023, based on Economic Census for Business Frame"
